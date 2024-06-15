@@ -154,11 +154,11 @@ INNERTUBE_CLIENTS = {
     'android_creator': {
         'INNERTUBE_API_KEY': 'AIzaSyD_qjV8zaaUMehtLkrKFgVeSX_Iqbtyws8',
         'INNERTUBE_CONTEXT': {
-            'client': {
-                'clientName': 'ANDROID_CREATOR',
-                'clientVersion': '24.30.100',
+           'client': {
+                'clientName': 'ANDROID_MUSIC',
+                'clientVersion': '7.05.54',
                 'androidSdkVersion': 30,
-                'userAgent': 'com.google.android.apps.youtube.creator/24.23.100 (Linux; U; Android 14) gzip',
+                'userAgent': 'com.google.android.apps.youtube.music/7.05.54 (Linux; U; Android 14) gzip',
             },
         },
         'INNERTUBE_CONTEXT_CLIENT_NAME': 14,
@@ -170,10 +170,10 @@ INNERTUBE_CLIENTS = {
         'INNERTUBE_API_KEY': 'AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc',
         'INNERTUBE_CONTEXT': {
             'client': {
-                'clientName': 'IOS',
-                'clientVersion': '19.23.3',
-                'deviceModel': 'iPhone14,3',
-                'userAgent': 'com.google.ios.youtube/19.23.3 (iPhone16,3; U; CPU iOS 16_6 like Mac OS X)',
+                'clientName': 'ANDROID_MUSIC',
+                'clientVersion': '7.05.54',
+                'androidSdkVersion': 30,
+                'userAgent': 'com.google.android.apps.youtube.music/7.05.54 (Linux; U; Android 14) gzip',
             },
         },
         'INNERTUBE_CONTEXT_CLIENT_NAME': 5,
@@ -182,10 +182,10 @@ INNERTUBE_CLIENTS = {
     'ios_embedded': {
         'INNERTUBE_CONTEXT': {
             'client': {
-                'clientName': 'IOS_MESSAGES_EXTENSION',
-                'clientVersion': '19.23.3',
-                'deviceModel': 'iPhone14,3',
-                'userAgent': 'com.google.ios.youtube/19.24.3 (iPhone16,3; U; CPU iOS 16_6 like Mac OS X)',
+                'clientName': 'ANDROID_MUSIC',
+                'clientVersion': '7.05.54',
+                'androidSdkVersion': 30,
+                'userAgent': 'com.google.android.apps.youtube.music/7.05.54 (Linux; U; Android 14) gzip',
             },
         },
         'INNERTUBE_CONTEXT_CLIENT_NAME': 66,
@@ -195,10 +195,10 @@ INNERTUBE_CLIENTS = {
         'INNERTUBE_API_KEY': 'AIzaSyBAETezhkwP0ZWA02RsqT1zu78Fpt0bC_s',
         'INNERTUBE_CONTEXT': {
             'client': {
-                'clientName': 'IOS_MUSIC',
-                'clientVersion': '7.33.3',
-                'deviceModel': 'iPhone14,3',
-                'userAgent': 'com.google.ios.youtubemusic/7.33.3 (iPhone16,3; U; CPU iOS 16_6 like Mac OS X)',
+                'clientName': 'ANDROID_MUSIC',
+                'clientVersion': '7.05.54',
+                'androidSdkVersion': 30,
+                'userAgent': 'com.google.android.apps.youtube.music/7.05.54 (Linux; U; Android 14) gzip',
             },
         },
         'INNERTUBE_CONTEXT_CLIENT_NAME': 26,
@@ -206,11 +206,11 @@ INNERTUBE_CLIENTS = {
     },
     'ios_creator': {
         'INNERTUBE_CONTEXT': {
-            'client': {
-                'clientName': 'IOS_CREATOR',
-                'clientVersion': '24.33.101',
-                'deviceModel': 'iPhone14,3',
-                'userAgent': 'com.google.ios.ytcreator/24.33.101 (iPhone16,3; U; CPU iOS 16_6 like Mac OS X)',
+           'client': {
+                'clientName': 'ANDROID_MUSIC',
+                'clientVersion': '7.05.54',
+                'androidSdkVersion': 30,
+                'userAgent': 'com.google.android.apps.youtube.music/7.05.54 (Linux; U; Android 14) gzip',
             },
         },
         'INNERTUBE_CONTEXT_CLIENT_NAME': 15,
