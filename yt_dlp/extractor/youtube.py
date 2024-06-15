@@ -72,7 +72,7 @@ STREAMING_DATA_CLIENT_NAME = '__yt_dlp_client'
 # any clients starting with _ cannot be explicitly requested by the user
 INNERTUBE_CLIENTS = {
     'web': {
-        'INNERTUBE_API_KEY': 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'WEB',
@@ -82,7 +82,7 @@ INNERTUBE_CLIENTS = {
         'INNERTUBE_CONTEXT_CLIENT_NAME': 1,
     },
     'web_embedded': {
-        'INNERTUBE_API_KEY': 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'WEB_EMBEDDED_PLAYER',
@@ -92,7 +92,7 @@ INNERTUBE_CLIENTS = {
         'INNERTUBE_CONTEXT_CLIENT_NAME': 56,
     },
     'web_music': {
-        'INNERTUBE_API_KEY': 'AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4', 
         'INNERTUBE_HOST': 'music.youtube.com',
         'INNERTUBE_CONTEXT': {
             'client': {
@@ -103,7 +103,7 @@ INNERTUBE_CLIENTS = {
         'INNERTUBE_CONTEXT_CLIENT_NAME': 67,
     },
     'web_creator': {
-        'INNERTUBE_API_KEY': 'AIzaSyBUPetSUmoZL-OhlxA7wSac5XinrygCqMo',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'WEB_CREATOR',
@@ -113,7 +113,7 @@ INNERTUBE_CLIENTS = {
         'INNERTUBE_CONTEXT_CLIENT_NAME': 62,
     },
     'android': {
-        'INNERTUBE_API_KEY': 'AIzaSyA8eiZmM1FaDVjRy-df2KTyQ_vz_yYM39w',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'ANDROID',
@@ -126,7 +126,7 @@ INNERTUBE_CLIENTS = {
         'REQUIRE_JS_PLAYER': False,
     },
     'android_embedded': {
-        'INNERTUBE_API_KEY': 'AIzaSyCjc_pVEDi4qsv5MtC2dMXzpIaDoRFLsxw',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'ANDROID_EMBEDDED_PLAYER',
@@ -139,7 +139,7 @@ INNERTUBE_CLIENTS = {
         'REQUIRE_JS_PLAYER': False,
     },
     'android_music': {
-        'INNERTUBE_API_KEY': 'AIzaSyAOghZGza2MQSZkY_zfZ370N-PUdXEo8AI',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'ANDROID_MUSIC',
@@ -152,7 +152,7 @@ INNERTUBE_CLIENTS = {
         'REQUIRE_JS_PLAYER': False,
     },
     'android_creator': {
-        'INNERTUBE_API_KEY': 'AIzaSyD_qjV8zaaUMehtLkrKFgVeSX_Iqbtyws8',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
            'client': {
                 'clientName': 'ANDROID_MUSIC',
@@ -167,7 +167,7 @@ INNERTUBE_CLIENTS = {
     # iOS clients have HLS live streams. Setting device model to get 60fps formats.
     # See: https://github.com/TeamNewPipe/NewPipeExtractor/issues/680#issuecomment-1002724558
     'ios': {
-        'INNERTUBE_API_KEY': 'AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'ANDROID_MUSIC',
@@ -192,7 +192,7 @@ INNERTUBE_CLIENTS = {
         'REQUIRE_JS_PLAYER': False,
     },
     'ios_music': {
-        'INNERTUBE_API_KEY': 'AIzaSyBAETezhkwP0ZWA02RsqT1zu78Fpt0bC_s',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'ANDROID_MUSIC',
@@ -219,7 +219,7 @@ INNERTUBE_CLIENTS = {
     # mweb has 'ultralow' formats
     # See: https://github.com/yt-dlp/yt-dlp/pull/557
     'mweb': {
-        'INNERTUBE_API_KEY': 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'MWEB',
@@ -231,7 +231,7 @@ INNERTUBE_CLIENTS = {
     # This client can access age restricted videos (unless the uploader has disabled the 'allow embedding' option)
     # See: https://github.com/zerodytrash/YouTube-Internal-Clients
     'tv_embedded': {
-        'INNERTUBE_API_KEY': 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8',
+        'INNERTUBE_API_KEY': 'AIzaSyAiQjsPeE5IKNr97ZMlAU8kWeu8jtsSKa4',
         'INNERTUBE_CONTEXT': {
             'client': {
                 'clientName': 'TVHTML5_SIMPLY_EMBEDDED_PLAYER',
